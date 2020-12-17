@@ -11,8 +11,3 @@ for this project I have writen a Python code to import US bike share data and an
 ### Files used
 bikeshare.py 
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
-
-Explore US Bikeshare
